@@ -173,5 +173,4 @@ Cả 2 file cùng được agent đọc và tổng hợp nội dung, kích hoạ
   tests/test_injection.py::test_variant_blocked_after_containment[4-support_l1] PASSED [ 87%]
   tests/test_injection.py::test_variant_blocked_after_containment[4-dpo] PASSED [100%]
   ```
-
 ---
